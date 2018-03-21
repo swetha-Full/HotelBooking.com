@@ -1,0 +1,31 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:sandybrown url("hotel-booking-visa.jpg") no-repeat fixed center;
+}
+
+
+h1{
+	color:brown;
+	text-align:center;
+	font-size:76px;
+}
+button{
+	background-color:sandybrown;
+	color:maroon;
+	width:200px;
+	height:50px;
+	font-size:20px;;
+}
+#Search{
+	
+	position:absolute;
+	left:550px;
+	right:300px;
+	top:300px;
+	bottom:300px;
+}

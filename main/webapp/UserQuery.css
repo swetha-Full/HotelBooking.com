@@ -1,0 +1,25 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+h1{
+	color:brown;
+	text-align:center;
+	font-size:76px;
+}
+body{
+	background-color:sandybrown;
+}
+.details{
+	text-align:center;
+	font-size:45px;
+	padding:100px 100px;
+}
+input[type="submit"]{
+	display:inline-block;
+	width:200px;
+	height:55px;
+	font-size:35px;
+	
+}
